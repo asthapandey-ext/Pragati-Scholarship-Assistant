@@ -1,4 +1,5 @@
 # Pragati Scholarship Assistant
+Video Link---https://youtu.be/wwqoVrKErA8
 
 **A bilingual (English + Hindi), source-grounded question-answering system for the AICTE Pragati Scholarship (Degree) guidelines, built with a careful retrieval evaluation.**
 
