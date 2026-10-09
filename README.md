@@ -26,7 +26,7 @@ A general chatbot can answer from memory, but in a money-and-eligibility setting
 
 | English answer | Hindi answer | Refusal (not in document) |
 |---|---|---|
-| ![English](screenshots/english_income_limit.png) | ![Hindi](screenshots/hindi_scholarship_amount.png) | ![Refusal](screenshots/refusal_last_date.png) |
+| ![English](english_income_limit.png) | ![Hindi](hindi_scholarship_amount.png) | ![Refusal](refusal_last_date.png) |
 
 ## 3. How it works
 
