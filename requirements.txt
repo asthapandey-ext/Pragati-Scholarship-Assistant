@@ -1,0 +1,6 @@
+pymupdf
+rank_bm25
+numpy
+sentence-transformers
+google-genai
+streamlit
